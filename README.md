@@ -1,2 +1,16 @@
-# ElasticSearch
-ElasticSearch学习
+# kuang-es-api
+
+## esapi
+
+分析了ES的java api
+
+
+
+## jd
+
+仿京东搜索页的电商实战项目：爬虫、前后端分离、es搜索高亮
+
+由于现在的京东要登录后才能搜索，所以使用了苏宁的搜索。
+
+
+
